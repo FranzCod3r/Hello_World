@@ -1,5 +1,5 @@
 
-# simple repository test
+# A simple repository test
 
 class Hello:
     def __init__(self, name, message):
