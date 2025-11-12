@@ -16,6 +16,6 @@ hello = Hello("Franz", "I'm learning Python")
 print(hello)
 
 
-#Classic version, same result:
+#Classic version:
 
 print("Hi my name is Franz, I'm learning Python")
