@@ -1,6 +1,8 @@
 
 # A simple repository test
 
+#advanced "Hello World":
+
 class Hello:
     def __init__(self, name, message):
         self.name = name
@@ -12,3 +14,8 @@ class Hello:
 hello = Hello("Franz", "I'm learning Python")
 
 print(hello)
+
+
+#Classic version, same result:
+
+print("Hi my name is Franz, I'm learning Python")
